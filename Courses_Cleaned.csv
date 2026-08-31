@@ -1,0 +1,18 @@
+﻿CourseID,CourseName,CourseCategory,DeliveryFormat,DifficultyLevel,DurationWeeks,BaseCurrency,Language,LaunchDate,IsActive,PlannedSeats,CoursePopularitySegment,Clean_Base_Price,Clean_VariableCostPerStudent,TeacherName_en
+CRS0001,AI Automation,AI Automation,Hybrid,Intermediate,12,UAH,UA,2021-09-29,True,50,Popular,37600.0,6768.0,Tadeusz Mel'nikova
+CRS0002,Data Analytics,Data Analytics,Offline,Advanced,9,UAH,UA,2023-02-11,True,59,Standard,36800.0,6624.0,Andrіj Mihaljuk
+CRS0003,DevOps,DevOps,Offline,Intermediate,21,UAH,UA,2024-07-05,True,117,Popular,52400.0,9432.0,Julian Negoda
+CRS0004,Excel,Excel,Offline,Beginner,13,UAH,UA,2024-03-28,True,77,Standard,8700.0,1566.0,Alіna Andryszczyk
+CRS0005,Front-End,Front-End,Online,Beginner,6,UAH,UA,2023-05-11,True,26,Flagship,28600.0,5148.0,Firs Kononov
+CRS0006,FullStack Java,Full Stack,Online,Intermediate,10,UAH,UA,2023-03-30,True,25,Standard,38100.0,6858.0,Donna Tabak
+CRS0007,FullStack Python,Full Stack,Online,Advanced,27,UAH,UA,2022-12-27,True,61,Niche,42100.0,7578.0,Bailey Volkov
+CRS0008,IT Start (Free),Introductory,Online,Beginner,3,UAH,UA,2023-01-05,True,108,Flagship,0.0,194.31,Andrew Ershov
+CRS0009,Java,Java,Hybrid,Intermediate,30,UAH,UA,2024-03-27,True,39,Niche,36700.0,6606.0,David Abragamovs'ka
+CRS0010,Python,Python,Offline,Intermediate,29,UAH,UA,2022-09-29,True,103,Standard,28100.0,5058.0,Varfolomej Arsenich
+CRS0011,QA Automation,QA,Hybrid,Beginner,13,UAH,UA,2021-01-02,True,79,Standard,27500.0,4950.0,Aurelia Vaschenko
+CRS0012,QA,QA,Online,Beginner,23,UAH,UA,2022-01-26,True,71,Flagship,32400.0,5832.0,Mariusz Turova
+CRS0013,Web Design,Front-End,Online,Beginner,10,UAH,UA,2023-05-28,True,91,Standard,26000.0,4680.0,Klavdіja Smik
+CRS0014,AI Automation Bundle,AI Automation,Online,Beginner,16,UAH,UA,2021-02-09,True,54,Flagship,21600.0,3888.0,Curtis Їzhak
+CRS0015,Data Analytics (Free Intro),Data Analytics,Online,Advanced,3,UAH,UA,2022-02-19,True,85,Flagship,0.0,106.62,Michał Haas
+CRS0016,Python Developer,Python,Offline,Beginner,31,UAH,UA,2024-07-19,True,23,Standard,29200.0,5256.0,Mark Vasilenko
+CRS0017,QA Engineer,QA,Hybrid,Intermediate,24,UAH,UA,2021-08-02,True,114,Standard,27900.0,5022.0,Galaktion Averchenko
