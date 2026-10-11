@@ -9,9 +9,9 @@ Data Modeling: Designed and implemented an optimized Star Schema architecture in
 <img width="950" height="738" alt="model" src="https://github.com/user-attachments/assets/4ef594d8-35ee-4134-b60e-7fe0eaa199ff" />
 
 Advanced DAX Measures: Developed and documented over 20+ specialized measures—covering dynamic multi-touch marketing attribution, financial KPIs (Gross/Net Revenue, ROAS, MROI, CAC), sales targets, and student cohort engagement metrics.
+<img width="1299" height="830" alt="Dax1" src="https://github.com/user-attachments/assets/ea70145a-5ea3-4f20-aa3d-e359430ba915" />
 
-<img width="1772" height="795" alt="marketing" src="https://github.com/user-attachments/assets/d840c4aa-4b7b-4de3-9766-f2df9659adaa" />
-
+<img width="1060" height="774" alt="Dax2" src="https://github.com/user-attachments/assets/5f7c0358-3d2c-4f54-98c1-1b624d60c276" />
 
 Interactive Executive Reporting: Built an intuitive multi-page Power BI dashboard enabling stakeholders to track sales performance, evaluate campaign efficiency, monitor manager quotas, and analyze student progression in real time.
 
