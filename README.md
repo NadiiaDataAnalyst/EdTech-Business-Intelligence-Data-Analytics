@@ -1,20 +1,21 @@
-# EdTech-Business-Intelligence-Data-Analytics
-EdTech Data Analytics Final Project - Python, Pandas and Power BI
-The company has provided raw exports from several business systems:
-CRM;
-payment gateway;
-advertising platforms;
-Learning Management System (LMS).
-Management needs a reliable Power BI reporting solution that combines sales, marketing, financial, course, cohort and student activity data.
-Our responsibility is to:
-inspect and profile the raw datasets;
-identify and resolve data-quality problems;
-prepare cleaned analytical datasets using Python and Pandas;
-build a structured Power BI data model;
-create documented DAX measures;
-develop an interactive management report;
-produce actionable business conclusions.
-<img width="1551" height="616" alt=";;;;" src="https://github.com/user-attachments/assets/62ee339f-970a-44af-98b8-834af2389f47" />
-Key Joining Rule
-Canonical identifiers such as CourseID, ManagerID, LeadID, EnrollmentID, CohortID and StudentID are the primary keys for connecting the datasets.
+Conclusion & Project Summary
 
+By integrating disparate data streams from the CRM, payment gateway, advertising platforms, and Learning Management System (LMS), the project achieved the following key milestones:
+
+Data Profiling & Cleaning: Inspected raw exports to uncover structural anomalies, handle missing values, and standardize identifiers using Python and Pandas, producing clean, analysis-ready datasets.
+
+Data Modeling: Designed and implemented an optimized Star Schema architecture in Power BI, establishing clear 1-to-many relationships between centralized dimension tables and transactional fact tables (FactPayments, Fact_Leads, Fact_MarketingSpend, FactEnrollments).
+
+<img width="950" height="738" alt="model" src="https://github.com/user-attachments/assets/4ef594d8-35ee-4134-b60e-7fe0eaa199ff" />
+
+Advanced DAX Measures: Developed and documented over 20+ specialized measures—covering dynamic multi-touch marketing attribution, financial KPIs (Gross/Net Revenue, ROAS, MROI, CAC), sales targets, and student cohort engagement metrics.
+
+<img width="1772" height="795" alt="marketing" src="https://github.com/user-attachments/assets/d840c4aa-4b7b-4de3-9766-f2df9659adaa" />
+
+
+Interactive Executive Reporting: Built an intuitive multi-page Power BI dashboard enabling stakeholders to track sales performance, evaluate campaign efficiency, monitor manager quotas, and analyze student progression in real time.
+
+<img width="1357" height="803" alt="executive summary" src="https://github.com/user-attachments/assets/58b021b8-5778-45af-ac39-5fcee72ebe52" />
+
+
+Actionable Business Insights: Converted complex transactional and behavioral data into clear recommendations for optimizing marketing spend, mitigating student churn, and improving sales pipeline conversion.
